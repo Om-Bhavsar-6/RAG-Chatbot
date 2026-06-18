@@ -1,4 +1,7 @@
 RAG-Chatbot
+<img width="1915" height="916" alt="image" src="https://github.com/user-attachments/assets/85571ab1-9db4-426b-8a7f-7b46d6eaaf23" />
+
+You can train your own database for the chatbot in this simple rag pipeline and if you want it in a large enterprise just remove the database layer and pre-train it behind the scenes and add authentication/authorization layers.
 
 ```markdown
  🤖 PDF Chatbot (Production-Ready RAG Pipeline)
