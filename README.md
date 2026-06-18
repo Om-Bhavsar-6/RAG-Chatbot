@@ -101,7 +101,3 @@ In an enterprise environment, private documents represent sensitive corporate da
 * Fine-grained authorization models ensure that if "User A" logs into your chatbot, the backend queries the vector store utilizing metadata filters configured with User A's specific organizational read privileges (preventing data leaks across departments).
 
 
-
-```
-
-```
