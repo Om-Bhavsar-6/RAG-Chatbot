@@ -9,10 +9,10 @@ I've used Google's Gemini API but you can go with any LLM of your choice and it 
 
  🚀 Key Features
 
-* **Dynamic Data Ingestion:** Instantly turns unstructured local PDF documents into an isolated private vector knowledge base.
-* **Next-Gen Embedding & Inference Layers:** Utilizes `gemini-embedding-2-preview` for deep semantic tokenization and `gemini-2.5-flash` for rapid, cost-effective, deterministic answers.
-* **Fully Formatted Web-GUI:** Built with a clean, responsive web interface using Gradio Blocks and customized inline CSS.
-* **Production-Ready LCEL Architecture:** Uses LangChain Expression Language (LCEL) pipelines for seamless internal variable routing.
+* Dynamic Data Ingestion: Instantly turns unstructured local PDF documents into an isolated private vector knowledge base.
+* Next-Gen Embedding & Inference Layers: Utilizes `gemini-embedding-2-preview` for deep semantic tokenization and `gemini-2.5-flash` for rapid, cost-effective, deterministic answers.
+* Fully Formatted Web-GUI: Built with a clean, responsive web interface using Gradio Blocks and customized inline CSS.
+* Production-Ready LCEL Architecture: Uses LangChain Expression Language (LCEL) pipelines for seamless internal variable routing.
 
 
 
