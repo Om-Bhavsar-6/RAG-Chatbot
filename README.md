@@ -1,31 +1,31 @@
 RAG-Chatbot
 
 ```markdown
-# 🤖 PDF Chatbot (Production-Ready RAG Pipeline)
+ 🤖 PDF Chatbot (Production-Ready RAG Pipeline)
 
 An enterprise-grade, localized Retrieval-Augmented Generation (RAG) chatbot that securely ingests private PDF data, extracts text structures, indexes vector representations using Gemini Embeddings into a Chroma vector database, and exposes an intuitive UI for context-aware interactions.
 I've used Google's Gemini API but you can go with any LLM of your choice and it will work just fine.
----
 
-## 🚀 Key Features
+
+ 🚀 Key Features
 
 * **Dynamic Data Ingestion:** Instantly turns unstructured local PDF documents into an isolated private vector knowledge base.
 * **Next-Gen Embedding & Inference Layers:** Utilizes `gemini-embedding-2-preview` for deep semantic tokenization and `gemini-2.5-flash` for rapid, cost-effective, deterministic answers.
 * **Fully Formatted Web-GUI:** Built with a clean, responsive web interface using Gradio Blocks and customized inline CSS.
 * **Production-Ready LCEL Architecture:** Uses LangChain Expression Language (LCEL) pipelines for seamless internal variable routing.
 
----
+
 
  🛠️ Installation & Setup
 
-1. **Clone the Repository:**
-   ```bash
+1. Clone the Repository:
+   bash-
    git clone [(https://github.com/Om-Bhavsar-6/RAG-Chatbot.git)](https://github.com/Om-Bhavsar-6/RAG-Chatbot.git)
    cd rag-chatbot
 
 ```
 
-2. **Install Required Dependencies:**
+2. Install Required Dependencies:
 ```bash
 pip install langchain-google-genai pypdf gradio chromadb langchain-core
 
